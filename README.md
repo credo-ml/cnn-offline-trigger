@@ -4,7 +4,9 @@
 # "CNN based classifier as an offline trigger for the CREDO experiment"
 
 ## Abstract 
-to do
+The CREDO project is a large scale project. At any given time, signals from many detectors are streaming in as image files. So there is no possibility of manual classification. In this work, the authors proposed an automatic classification model based on AI techniques based on morphological features. Zernike moments were used as the feature extractor. As a result, several competing models have been developed that are able to assign the resulting images to specific categories in a relatively small amount of time. 
+
+Translated with www.DeepL.com/Translator (free version)
 
 #
 
