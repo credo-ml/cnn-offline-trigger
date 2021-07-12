@@ -19,4 +19,4 @@ Piekarczyk, M.; Bar, O.;Bibrzycki, Ł.; Niedźwiecki, M.;Rzecki, K.; Stuglik, S.
 
 ## cnn-offline-trigger
 
-Data source is from the CREDO project: https://credo.science/?lang=pl_pl If you have some questions please contact tomasz.hachaj at up.krakow.pl
+Data source is from the CREDO project: https://credo.science/?lang=pl_pl If you have some questions please contact marcin.piekarczyk at up.krakow.pl
