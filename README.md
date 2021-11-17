@@ -10,7 +10,8 @@ The CREDO (The Cosmic Ray Extremely Distributed Observatory)is a large scale pro
 #
 
 ## please cite us
-Piekarczyk, M.; Bar, O.;Bibrzycki, Ł.; Niedźwiecki, M.;Rzecki, K.; Stuglik, S.; Andersen, T.;Budnev, N.; Alvarez-Castillo, D.;Almeida Cheminant, K.; et al.CNN-Based Classifier as an OfflineTrigger for the CREDO Experiment. Sensors2021,1,  0.  https://doi.org/
+"CNN-Based Classifier as an Offline Trigger for the CREDO Experiment",
+M. Piekarczyk, O. Bar, Ł. Bibrzycki, M. Niedźwiecki, K. Rzecki, S. Stuglik, et al. (CREDO Collab.), Sensors 2021,21, 4804, August 2021.
 
 Full text avilable at: 
 https://doi.org/10.3390/s21144804
